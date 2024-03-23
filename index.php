@@ -145,10 +145,11 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 
 
 <!--
-	Here follows descriptions from the Arreat Summit pages:
-	http://www.battle.net/diablo2exp/items/runewords.shtml
+	Here follows descriptions of each runeword in Path of Diablo.
 	The ids must match the runeword titles in the javascript,
 	with any character not a-z A-Z or 0-9 replaced by an underscore.
+	If you wish to edit/fix any of the runewords, below is where you do it.
+	Submit a pull request on the repository and I'll pull and upload to website.
 -->
 
 
@@ -1241,6 +1242,50 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	+10 To Dexterity<br>
 	All Resistances +20-30 (varies)<br>
 	Requirements -20%
+</div>
+
+<div id="Wisdom" style="display:none">
+
+</div>
+
+<div id="Unbending Will" style="display:none">
+
+</div>
+
+<div id="Temper" style="display:none">
+
+</div>
+
+<div id="Mosaic" style="display:none">
+
+</div>
+
+<div id="Mist" style="display:none">
+
+</div>
+
+<div id="Metamorphosis" style="display:none">
+
+</div>
+
+<div id="Hustle" style="display:none">
+
+</div>
+
+<div id="Ground" style="display:none">
+
+</div>
+
+<div id="Flickering Flame" style="display:none">
+
+</div>
+
+<div id="Cure" style="display:none">
+
+</div>
+
+<div id="Bulwark" style="display:none">
+
 </div>
 
 </body></html>
