@@ -908,7 +908,8 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Lightning Resist +30%<br>
 	Magic Damage Taken Reduced By 7<br>
 	15% Damage Taken Gained As Mana When Hit<br>
-	Can Summon One Additional Grizzly Bear
+	Can Summon One Additional Grizzly Bear<br>
+	Summon Grizzly Bear cannot be cursed
 </div>
 
 <div id="Treachery" style="display:none">
@@ -1256,7 +1257,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	15% Damage Taken Goes to Mana
 </div>
 
-<div id="Unbending Will" style="display:none">
+<div id="Unbending_Will" style="display:none">
 	18% Chance to Cast Level 18 Taunt On Striking<br>
 	+3 to Combat Skills (Barbarian Only)<br>
 	+20-30% Increased Attack Speed<br>
@@ -1399,5 +1400,8 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Cannot be Frozen<br>
 	+2 Additional Cold Arrows Fired
 </div>
-
+<br>
+<br>
+<br>
+<br>
 </body></html>
