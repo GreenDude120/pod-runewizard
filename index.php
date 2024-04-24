@@ -1245,47 +1245,159 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Wisdom" style="display:none">
-
+	+33% Piercing Attack
+	+15-25% Bonus to Attack Rating
+	4-8% Mana Stolen Per Hit
+	+30% Enhanced Defense
+	+10 Energy
+	15% Slower Stamina Drain
+	Cannot Be Frozen
+	+5 Mana After Each Kill
+	15% Damage Taken Goes to Mana
 </div>
 
 <div id="Unbending Will" style="display:none">
-
+	18% Chance to Cast Level 18 Taunt On Striking<br>
+	+3 to Combat Skills (Barbarian Only)<br>
+	+20-30% Increased Attack Speed<br>
+	+300-350% Enhanced Damage<br>
+	+9 to Maximum Damage<br>
+	+50 to Attack Rating<br>
+	+75% Damage To Undead<br>
+	+50 Attack Rating Against Undead<br>
+	8-10% Life Stolen Per Hit<br>
+	Prevent Monster Heal<br>
+	+10 To Strength<br>
+	+10 To Vitality<br>
+	Damage Reduced by 8<br>
+	+1 To Light Radius<br>
+	Requirements -20% 
 </div>
 
 <div id="Temper" style="display:none">
-
+	+20% Faster Hit Recovery<br>
+	+75-100% Enhanced Defense<br>
+	+10 to Vitality<br>
+	+91-130 Fire Damage<br>
+	Fire Resist +30%<br>
+	Fire Absorb +10-15%<br>
+	+4 Life gained on melee hit<br>
+	+3 Life gained on ranged hit
 </div>
 
 <div id="Mosaic" style="display:none">
-
+	+3 Seconds to All Martial Arts Charges Duration<br>
+	+2 to Martial Arts (Asassin only)<br>
+	+20% Increased Attack Speed<br>
+	+200-250% Enhanced Damage<br>
+	8-15% to Cold Skill Damage<br>
+	8-15% to Lightning Skill Damage<br>
+	8-15% to Fire Skill Damage<br>
+	+20% Bonus to Attack Rating<br>
+	7% Life Steal<br>
+	Prevent Monster Heal
 </div>
 
 <div id="Mist" style="display:none">
-
+	Level 8-12 Concentration Aura When Equipped<br>
+	+3 To All Skills<br>
+	+20% Increased Attack Speed<br>
+	+100% Piercing Attack<br>
+	+325-375% Enhanced Damage<br>
+	+9 To Maximum Damage<br>
+	20% Bonus to Attack Rating<br>
+	Adds 3-14 Cold Damage<br>
+	Freezes Target +3<br>
+	+24 to Vitality<br>
+	All Resistances +40 
 </div>
 
 <div id="Metamorphosis" style="display:none">
-
+<b>Werewolf Form specific changes:</b><br>
+	-(10-15%)% to Enemy Poison Resists affected by Rabies<br>
+	+5 Summon Dire Wolves<br>
+<b>Werebear Form specific changes:</b><br>
+	Gain Attacks cleave during Maul buff (cleave level based on Maul charge count)<br>
+	Grizzly Bear gains Attacks cleave during Maul buff (cleave level based on Maul charge count)<br><br>
+	+5 to Shape Shifting Skills (Druid only)<br>
+	+25% Chance of Crushing Blow<br>
+	+50-80% Enhanced Defense<br>
+	+10 to Strength<br>
+	+10 to Vitality<br>
+	All Resistances +10<br>
+	Cannot be Frozen
 </div>
 
 <div id="Hustle" style="display:none">
-
+<b>Weapons</b><br>
+	20% Chance to Cast Phase Run level 1 When Struck<br>
+	+1 to Dashing Strike (oskill)<br>
+	+30% Increased Attack Speed<br>
+	+180-200% Enhanced Damage<br>
+	+75% Damage to Undead<br>
+	+50 to Attack Rating against Undead<br>
+	+10 to Dexterity 
+	<br>
+<b>Body Armors</b><br>
+	+25% Faster Run/Walk<br>
+	+40% Increased Attack Speed<br>
+	+20% Faster Hit Recovery<br>
+	+6 to Evade<br>
+	+10 to Dexterity<br>
+	50% Slower Stamina Drain<br>
+	+All Resistances +10 
 </div>
 
 <div id="Ground" style="display:none">
-
+	+20% Faster Hit Recovery<br>
+	+75-100% Enhanced Defense<br>
+	+10 to Vitality<br>
+	+1-200 Lightning Damage<br>
+	Lightning Resist +30%<br>
+	Lightning Absorb +10-15%<br>
+	+3 Mana gained on melee hit<br>
+	+2 Mana gained on ranged hit
 </div>
 
 <div id="Flickering Flame" style="display:none">
-
+	+2 To Fire Skills<br>
+	-10-15% To Enemy Fire Resistance<br>
+	+30% Enhanced Defense<br>
+	+30 Defense vs. Missile<br>
+	+50-75 To Mana<br>
+	Half Freeze Duration<br>
+	+5% To Maximum Fire Resist<br>
+	Poison Length Reduced by 50%
 </div>
 
 <div id="Cure" style="display:none">
-
+	Reduced Curse Duration by 40%<br>
+	+75-100% Enhanced Defense<br>
+	Poison Resist +30%<br>
+	Poison Length Reduced by 50%<br>
+	+20% Faster Hit Recovery<br>
+	+10 to Vitality<br>
 </div>
 
 <div id="Bulwark" style="display:none">
+	+20% Faster Hit Recovery<br>
+	+4-6% Life stolen per hit<br>
+	+75-100% Enhanced Defense<br>
+	+10 to Vitality<br>
+	+150 to Attack Rating<br>
+	Replenish Life +30<br>
+	Damage Reduced by 7
+</div>
 
+<div id="Hearth" style="display:none">
+	+20% Faster Hit Recovery<br>
+	+75-100% Enhanced Defense<br>
+	+10 to Vitality<br>
+	+25-40 Cold Damage<br>
+	Cold Resist +30%<br>
+	Cold Absorb +10-15%<br>
+	Cannot be Frozen<br>
+	+2 Additional Cold Arrows Fired
 </div>
 
 </body></html>
