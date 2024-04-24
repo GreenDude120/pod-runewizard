@@ -199,7 +199,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Lightning Resistance +60%<br>
 	+5 To Maximum Lightning Resistance<br>
 	+3 To Holy Shock (Paladin Only)<br>
-	Level 7 Chain Lightning (60 Charges)
+	Level 7 Teleport (60 Charges)
 </div>
 
 
@@ -366,6 +366,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	7% Mana Stolen Per Hit<br>
 	Level 15 Desecrate (27 Charges)<br>
 	Level 13 Poison Nova (11 Charges)<br>
+	Half Freeze Duration<br>
 	+273 Poison Damage Over 6 seconds
 </div>
 
@@ -377,15 +378,15 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="White" style="display:none">
-	Hit Causes Monster To Flee 25%<br>
-	+10 To Vitality<br>
 	+3 To Poison And Bone Skills (Necromancer Only)<br>
+	20% Faster Cast Rate<br>
 	+3 To Bone Armor (Necromancer Only)<br>
 	+2 To Bone Spear (Necromancer Only)<br>
 	+4 To Skeleton Mastery (Necromancer Only)<br>
-	Magic Damage Taken Reduced By 4<br>
-	20% Faster Cast Rate<br>
-	+13 To Mana
+	Half Freeze Duration<br>
+	+10 To Vitality<br>
+	+13 To Mana<br>
+	Magic Damage Taken Reduced By 4
 </div>
 
 <div id="Beast" style="display:none">
@@ -417,10 +418,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Level 13 Spirit of Barbs (33 Charges)
 </div>
 
-
-
-
-
 <div id="Chaos" style="display:none">
 	9% Chance To Cast Level 11 Frozen Orb On Striking<br>
 	11% Chance To Cast Level 9 Charged Bolt On Striking<br>
@@ -428,7 +425,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	+290-340% Enhanced Damage (varies)<br>
 	Adds 216-471 Magic Damage<br>
 	25% Chance of Open Wounds<br>
-	+1 To Zeal<br>
+	+1 To Whirlwind<br>
 	+10 To Strength<br>
 	+15 Life After Each Demon Kill
 </div>
@@ -500,8 +497,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	15% Damage Taken Gained As Mana When Hit<br>
 	+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)
 </div>
-
-
 
 <div id="Exile" style="display:none">
 	15% Chance To Cast Level 5 Life Tap On Striking<br>
@@ -584,8 +579,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Level 12 Phase Run (60 Charges)
 </div>
 
-
-
 <div id="Stone" style="display:none">
 	+60% Faster Hit Recovery<br>
 	+250-290% Enhanced Defense (varies)<br>
@@ -624,10 +617,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Knockback<br>
 	Fires Explosive Arrows or Bolts (15)
 </div>
-
-
-
-
 
 <div id="Dragon" style="display:none">
 	20% Chance to Cast Level 18 Venom When Struck<br>
@@ -684,10 +673,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	75% Extra Gold From Monsters
 </div>
 
-
-
-
-
 <div id="Harmony" style="display:none">
 	Level 10 Vigor Aura When Equipped<br>
 	+200-275% Enhanced Damage (varies)<br>
@@ -718,8 +703,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	3.125-309.375 Extra Gold From Monsters (Based on Character Level)
 </div>
 
-
-
 <div id="Insight" style="display:none">
 	Level 12-17 Meditation Aura When Equipped (varies)<br>
 	+35% Faster Cast Rate<br>
@@ -734,8 +717,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	23% Better Chance of Getting Magic Items
 </div>
 
-
-
 <div id="Lawbringer" style="display:none">
 	20% Chance To Cast Level 15 Decrepify On Striking<br>
 	Level 16-18 Sanctuary Aura When Equipped (varies)<br>
@@ -748,14 +729,6 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	+10 To Dexterity<br>
 	75% Extra Gold From Monsters
 </div>
-
-
-
-
-
-
-
-
 
 <div id="Rift" style="display:none">
 	20% Chance To Cast Level 16 Tornado On Striking<br>
@@ -827,9 +800,8 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Cannot Be Frozen
 </div>
 
-
 <div id="Bone" style="display:none">
-	15% Chance To Cast level 10 Bone Armor When Struck<br>
+	+1 to Bone Armor (Necromancer Only)<br>
 	+2 To Necromancer Skill Levels<br>
 	+100-150 To Mana (varies)<br>
 	All Resistances +30<br>
@@ -850,7 +822,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 <div id="Plague" style="display:none">
     25% Chance to Cast level 15 Poison Nova on Striking<br>
     20% Chance to Cast level 12 Lower Resist When Struck<br>
-    Level 13-17 Cleansing Aura When Equipped (Varies) (Tooltip shows incorrect aura level)<br>
+    Level 13-17 Cleansing Aura When Equipped (Varies)<br>
     +1-2 to All Skills (Varies)<br>
     +260-380% Damage to Demons (Varies)<br>
     -23% to Enemy Poison Resistance<br>
@@ -859,7 +831,19 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
     Freezes Target +3<br>
     +10 to Strength<br>
 </div>
-
+	
+<div id="Plague2" style="display:none">
+    25% Chance to Cast level 15 Poison Nova on Striking<br>
+    20% Chance to Cast level 12 Lower Resist When Struck<br>
+    Level 13-17 Cleansing Aura When Equipped (Varies)<br>
+    +1-2 to All Skills (Varies)<br>
+    +260-380% Damage to Demons (Varies)<br>
+    -23% to Enemy Poison Resistance<br>
+    0-37% Deadly Strike (Based on Character Level)<br>
+    25% Chance of Open Wounds<br>
+    Freezes Target +3<br>
+    +20% Increased Attack Speed<br>
+</div>
 
 <div id="Pattern" style="display:none">
     +30% Faster Block Rate<br>
@@ -872,6 +856,19 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
     +6 to Dexterity<br>
     All Resistances +15<br>
     +2 to Mana After Each Kill<br>
+</div>
+<div id="Pattern2" style="display:none">
+    +30% Faster Block Rate<br>
+    +40-80% Enhanced Damage (varies)<br>
+    +3 Seconds to All Martial Arts Charge Duration<br>
+    10% Bonus to Attack Rating<br>
+    Adds 12-32 Fire Damage<br>
+    Adds 1-50 Lightning Damage<br>
+    +75 Poison Damage Over 5 Seconds<br>
+    +6 to Strength<br>
+    +6 to Dexterity<br>
+    All Resistances +15<br>
+    Adds 3-14 Cold Damage<br>
 </div>
 
 <div id="Myth" style="display:none">
@@ -1002,6 +999,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	All Resistances +75<br>
 	20% Faster Hit Recovery<br>
 	11% Mana Stolen Per Hit<br>
+	Half Freeze Duration<br>
 	Hit Blinds Target +33<br>
 	+2 To Mana After Each Kill<br>
 	30% Better Chance Of Getting Magic Items<br>
@@ -1360,7 +1358,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	+2 Mana gained on ranged hit
 </div>
 
-<div id="Flickering Flame" style="display:none">
+<div id="Flickering_Flame" style="display:none">
 	+2 To Fire Skills<br>
 	-10-15% To Enemy Fire Resistance<br>
 	+30% Enhanced Defense<br>
