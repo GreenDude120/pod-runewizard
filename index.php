@@ -1244,14 +1244,14 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Wisdom" style="display:none">
-	+33% Piercing Attack
-	+15-25% Bonus to Attack Rating
-	4-8% Mana Stolen Per Hit
-	+30% Enhanced Defense
-	+10 Energy
-	15% Slower Stamina Drain
-	Cannot Be Frozen
-	+5 Mana After Each Kill
+	+33% Piercing Attack<br>
+	+15-25% Bonus to Attack Rating<br>
+	4-8% Mana Stolen Per Hit<br>
+	+30% Enhanced Defense<br>
+	+10 Energy<br>
+	15% Slower Stamina Drain<br>
+	Cannot Be Frozen<br>
+	+5 Mana After Each Kill<br>
 	15% Damage Taken Goes to Mana
 </div>
 
