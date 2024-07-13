@@ -633,8 +633,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Dream" style="display:none">
-	10% Chance To Cast Level 15 Confuse When Struck<br>
-	Level 15 Holy Shock Aura When Equipped<br>
+	Level 13 Holy Shock Aura When Equipped<br>
 	+20-30% Faster Hit Recovery (varies)<br>
 	+30% Enhanced Defense<br>
 	+150-220 Defense (varies)<br>
