@@ -296,14 +296,15 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Radiance" style="display:none">
-	+75% Enhanced Defense<br>
+	Level 11 Thorns aura when equipped<br>
 	+30 Defense Vs. Missile<br>
 	+10 To Energy<br>
 	+10 To Vitality<br>
-	15% Damage Taken Gained As Mana When Hit<br>
-	Magic Damage Taken Reduced By 3<br>
 	+33 To Mana<br>
+	Damage Absorb 5%<br>
+	Magic Damage Taken Reduced By 3<br>
 	Physical Damage Taken Reduced By 7<br>
+	15% Damage Taken Gained As Mana When Hit<br>
 	+5 To Light Radius
 </div>
 
@@ -527,7 +528,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 
 <div id="Hand_of_Justice" style="display:none">
 	100% Chance To Cast Level 36 Meteor When You Level-Up<br>
-	100% Chance To Cast Level 48 Meteor When You Die<br>
+	+50% increased Holy Fire Area Damage rate<br>
 	Level 16 Holy Fire Aura When Equipped<br>
 	+33% Increased Attack Speed<br>
 	+280-330% Enhanced Damage (varies)<br>
@@ -1018,6 +1019,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 
 <div id="Call_To_Arms" style="display:none">
 	+1 To All Skills<br>
+	100% Chance to Cast lvl 31 War Cry on kill<br>
 	+40% Increased Attack Speed<br>
 	+250-290% Enhanced Damage (varies)<br>
 	Adds 5-30 Fire Damage<br>
@@ -1182,8 +1184,8 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Destruction" style="display:none">
-	23% Chance To Cast Level 12 Volcano On Striking<br>
-	5% Chance To Cast Level 23 Molten Boulder On Striking<br>
+	23% Chance To Cast Level 24 Volcano On Striking<br>
+	5% Chance To Cast Level 27 Molten Boulder On Striking<br>
 	100% Chance To Cast Level 45 Meteor When You Die<br>
 	15% Chance To Cast Level 22 Nova On Attack<br>
 	+350% Enhanced Damage<br>
