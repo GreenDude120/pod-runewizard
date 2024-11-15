@@ -368,7 +368,9 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Level 15 Desecrate (27 Charges)<br>
 	Level 13 Poison Nova (11 Charges)<br>
 	Half Freeze Duration<br>
-	+273 Poison Damage Over 6 seconds
+	-10 to -15% Enemy Poison Resist<br>
+	+3 Deadly Poison (oskill)<br>
+	+273 Poison Damage Over 4 seconds
 </div>
 
 <div id="Wealth" style="display:none">
@@ -612,11 +614,10 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Ignore Target's Defense<br>
 	20% Bonus to Attack Rating<br>
 	+280-330% Damage To Demons (varies)<br>
-
 	20% Deadly Strike<br>
 	Prevent Monster Heal<br>
 	Knockback<br>
-	Fires Explosive Arrows or Bolts (15)
+	+280-330% Damage to Undead
 </div>
 
 <div id="Dragon" style="display:none">
@@ -647,7 +648,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Edge" style="display:none">
-	Level 15 Thorns Aura When Equipped<br>
+	Level 15 Precision Aura When Equipped<br>
 	+35% Increased Attack Speed<br>
 	+320-380% Damage To Demons (varies)<br>
 	+280% Damage To Undead<br>
@@ -773,7 +774,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 
 <div id="Voice_of_Reason" style="display:none">
 	15% Chance To Cast Level 13 Frozen Orb On Striking<br>
-	18% Chance To Cast Level 20 Ice Blast On Striking<br>
+	18% Chance To Cast Level 20 Glacial Spike On Striking<br>
 	+50 To Attack Rating<br>
 	+220-350% Damage To Demons<br>
 	+355-375% Damage To Undead (varies)<br>
@@ -788,12 +789,12 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 
 <div id="Wrath" style="display:none">
 	30% Chance To Cast Level 1 Decrepify On Striking<br>
-	5% Chance To Cast Level 10 Life Tap On Striking<br>
+	100% Enhanced Damage<br>
 	+375% Damage To Demons<br>
 	+100 To Attack Rating Against Demons<br>
 	+250-300% Damage To Undead (varies)<br>
-	Adds 85-120 Magic Damage<br>
-	Adds 41-240 Lightning Damage<br>
+	Adds 150-200 Magic Damage<br>
+	Adds 199-400 Lightning Damage<br>
 	20% Chance of Crushing Blow<br>
 	Prevent Monster Heal<br>
 	+10 To Energy<br>
@@ -891,7 +892,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 </div>
 
 <div id="Principle" style="display:none">
-	100% Chance To Cast Level 5 Holy Bolt On Striking<br>
+	50% Chance To Cast Level 11 Holy Bolt On Striking<br>
 	+2 To Paladin Skill Levels<br>
 	15% Slower Stamina Drain<br>
 	+5% To Maximum Poison Resist<br>
@@ -911,6 +912,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 
 <div id="Treachery" style="display:none">
 	5% Chance To Cast Level 15 Fade When Struck<br>
+	Can Summon an Additional Shadow Warrior/Master<br>
 	25% Chance To Cast level 15 Venom On Striking<br>
 	+2 To Assassin Skills<br>
 	+45% Increased Attack Speed<br>
@@ -1226,7 +1228,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Replenish Life +16<br>
 	Cannot Be Frozen<br>
 	30% Better Chance of Getting Magic Items<br>
-	Level 8 Revive (88 Charges)
+	Level 8 Revive (oskill)
 </div>
 
 <div id="Obedience" style="display:none">
