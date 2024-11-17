@@ -385,7 +385,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	20% Faster Cast Rate<br>
 	+3 To Bone Armor (Necromancer Only)<br>
 	+2 To Bone Spear (Necromancer Only)<br>
-	+4 To Skeleton Mastery (Necromancer Only)<br>
+	+4 To Summon Mastery (Necromancer Only)<br>
 	Half Freeze Duration<br>
 	+10 To Vitality<br>
 	+13 To Mana<br>
