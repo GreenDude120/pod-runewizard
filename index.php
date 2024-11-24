@@ -1401,6 +1401,22 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Cannot be Frozen<br>
 	+2 Additional Cold Arrows Fired
 </div>
+
+<div id="Obsession" style="display:none">
+	Indestructible<br>
+	24% Chance to cast level 10 Weaken when struck<br>
+	+4 To All Skills<br>
+	+65% Faster Cast Rate<br>
+	+60% Faster Hit Recovery<br>
+	Knockback<br>
+	+10 To Vitality<br>
+	+10 To Energy<br>
+	Increase Maximum Life 15-25% (varies)<br>
+	Regenerate Mana 15-30% (varies)<br>
+	All Resistances +60-70 (varies)<br>
+	75% Extra Gold from Monsters<br>
+	30% Better Chance of Getting Magic Items 
+</div>
 <br>
 <br>
 <br>
