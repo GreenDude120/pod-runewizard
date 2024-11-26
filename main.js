@@ -116,7 +116,7 @@ var Runewords = [
     { title: "Wisdom", runes: ['Zod','Ist','Lem','Lum','Io','Nef'], ttype:"Helms", ladder:true },
     /* 1.11 */
 	{ title: "Bone", runes: ['Sol','Um','Um'], ttype:"Body Armor", tclass:"Necromancer" },
-	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], ttype:"Body Armo", tclass:"Sorceress" },
+	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], ttype:"Body Armor", tclass:"Sorceress" },
 	{ title: "Myth", runes: ['Hel','Amn','Nef'], ttype:"Body Armor", tclass:"Barbarian" },
 	{ title: "Peace", runes: ['Shael','Thul','Amn'], ttype:"Body Armor", tclass:"Amazon" },
 	{ title: "Principle", runes: ['Ral','Gul','Eld'], ttype:"Body Armor", tclass:"Paladin" },
