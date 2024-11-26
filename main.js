@@ -115,13 +115,13 @@ var Runewords = [
     { title: "Temper", runes: ['Shael','Io','Ral'], ttype:"Helms", ladder:true },
     { title: "Wisdom", runes: ['Zod','Ist','Lem','Lum','Io','Nef'], ttype:"Helms", ladder:true },
     /* 1.11 */
-	{ title: "Bone", runes: ['Sol','Um','Um'], ttype:"Body Armor (Necro Only)", tclass:"Necromancer" },
-	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], ttype:"Body Armor (Sorc Only)", tclass:"Sorceress" },
-	{ title: "Myth", runes: ['Hel','Amn','Nef'], ttype:"Body Armor (Barb Only)", tclass:"Barbarian" },
-	{ title: "Peace", runes: ['Shael','Thul','Amn'], ttype:"Body Armor (Zon Only)", tclass:"Amazon" },
-	{ title: "Principle", runes: ['Ral','Gul','Eld'], ttype:"Body Armor (Pally Only)", tclass:"Paladin" },
-	{ title: "Rain", runes: ['Ort','Mal','Ith'], ttype:"Body Armor (Druid Only)", tclass:"Druid" },
-	{ title: "Treachery", runes: ['Shael','Thul','Lem'], ttype:"Body Armor (Sin Only)", tclass:"Assassin" }
+	{ title: "Bone", runes: ['Sol','Um','Um'], ttype:"Body Armor", tclass:"Necromancer" },
+	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], ttype:"Body Armo", tclass:"Sorceress" },
+	{ title: "Myth", runes: ['Hel','Amn','Nef'], ttype:"Body Armor", tclass:"Barbarian" },
+	{ title: "Peace", runes: ['Shael','Thul','Amn'], ttype:"Body Armor", tclass:"Amazon" },
+	{ title: "Principle", runes: ['Ral','Gul','Eld'], ttype:"Body Armor", tclass:"Paladin" },
+	{ title: "Rain", runes: ['Ort','Mal','Ith'], ttype:"Body Armor", tclass:"Druid" },
+	{ title: "Treachery", runes: ['Shael','Thul','Lem'], ttype:"Body Armor", tclass:"Assassin" }
 ];
 
 var Runes = {
