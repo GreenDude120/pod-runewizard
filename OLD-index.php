@@ -1094,7 +1094,7 @@ consistent with the rune <a href="http://www.battle.net/diablo2exp/items/cube.sh
 	Prevent Monster Heal<br>
 	+10 To Energy<br>
 	+10-15 Magic Absorb (varies)<br>
-	Level 16 Heart Of Wolverine (20 Charges)<br>
+	+10-12 Heart of the Wolverine (oSkill)<br>
 	Level 17 Iron Golem (14 Charges)
 </div>
 
