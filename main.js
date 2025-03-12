@@ -110,7 +110,7 @@ var Runewords = [
     { title: "Metamorphosis", runes: ['Io','Cham','Fal'], ttype:"Helms", ladder:true },
     { title: "Mist", runes: ['Cham','Shael','Gul','Thul','Ith'], ttype:"Missile Weapons", ladder:true },
     { title: "Mosaic", runes: ['Mal','Gul','Amn'], ttype:"Claws", ladder:true },
-    { title: "Wisdom", runes: ['Pul','Ith','Eld'], ttype:"Hemls", ladder:true },
+    { title: "Wisdom", runes: ['Pul','Ith','Eld'], ttype:"Helms", ladder:true },
     { title: "Unbending Will", runes: ['Fal','Io','Ith','Eld','El','Hel'], ttype:"Swords", ladder:true },
     { title: "Temper", runes: ['Shael','Io','Ral'], ttype:"Helms", ladder:true },
     { title: "Obsession", runes: ['Zod','Ist','Lem','Lum','Io','Nef'], ttype:"Staves", ladder:true },
