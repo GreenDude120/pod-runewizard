@@ -166,6 +166,10 @@ h2 { font-size:15px; font-family:Georgia; color:#cfc; font-weight:normal; margin
 	color:#48ac3f;
 	font:12px/1.2em Arial, sans-serif;
 }
+
+.lvlreq {
+	color: white; 
+}
 #JsLayer #JsLayerTitle { color:#928a70; font-size:14px; line-height:1em; margin:0; }
 #JsLayer #JsLayerType { color:#fff; font-size:11px; margin:2px 0 4px; }
 #JsLayer #JsLayerContents { font-variant:small-caps; } /* Diablo 2 style font! ^_^ */
