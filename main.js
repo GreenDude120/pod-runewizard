@@ -96,7 +96,7 @@ var Runewords = [
 	{ title: "Voice of Reason", runes: ['Lem','Ko','El','Eld'], ttype:"Swords/Maces", ladder:true, lvl:43 },
 	{ title: "Wrath", runes: ['Pul','Lum','Ber','Mal'], ttype:"Missile Weapons", ladder:true, lvl:63 },
 	/* POD LADDER */
-    { title: "Pattern", runes: ['Tal','Ort','Tir'], ttype:"Claws", ladder:true, lvl:23 },
+    { title: "Pattern", runes: ['Tal','Ort','Tir'], ttype:"Claws", ladder:true, lvl:21 },
     { title: "Pattern2", runes: ['Tal','Ort','Thul'], ttype:"Claws", ladder:true, lvl:23 },
     { title: "Plague", runes: ['Cham','Fal','Um'], ttype:"Weapons", ladder:true, lvl:67 },
     { title: "Plague2", runes: ['Cham','Shael','Um'], ttype:"Swords/Claws/Daggers", ladder:true, lvl:67 },
