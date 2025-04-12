@@ -113,7 +113,7 @@ var Runewords = [
     { title: "Wisdom", runes: ['Pul','Ith','Eld'], ttype:"Helms", ladder:true, lvl:45 },
     { title: "Unbending Will", runes: ['Fal','Io','Ith','Eld','El','Hel'], ttype:"Swords", ladder:true, lvl:41 },
     { title: "Temper", runes: ['Shael','Io','Ral'], ttype:"Helms", ladder:true, lvl:35 },
-    { title: "Obsession", runes: ['Zod','Ist','Lem','Lum','Io','Nef'], ttype:"Staves", ladder:true, lvl:69 },
+/*    { title: "Obsession", runes: ['Zod','Ist','Lem','Lum','Io','Nef'], ttype:"Staves", ladder:true, lvl:69 }, */
     /* 1.11 */
 	{ title: "Bone", runes: ['Sol','Um','Um'], ttype:"Body Armor", tclass:"Necromancer", lvl:47 },
 	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], ttype:"Body Armor", tclass:"Sorceress", lvl:45 },
