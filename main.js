@@ -84,7 +84,7 @@ var Runewords = [
 	{ title: "Harmony", runes: ['Tir','Ith','Sol','Ko'], ttype:"Missile Weapons", ladder:true, lvl:39 },
 	{ title: "Ice", runes: ['Amn','Shael','Jah','Lo'], ttype:"Missile Weapons", ladder:true, lvl:65 },
 	{ title: "Infinity", runes: ['Ber','Mal','Ber','Ist'], ttype:"Polearms/Spears", ladder:true, lvl:63 },
-	{ title: "Insight", runes: ['Ral','Tir','Tal','Sol'], ttype:"Polearms/Staves/Bows/Spears", ladder:true, lvl:27 },
+	{ title: "Insight", runes: ['Ral','Tir','Tal','Sol'], ttype:"Polearms/Staves/Bows/Crossbows/Spears", ladder:true, lvl:27 },
 	{ title: "Last Wish", runes: ['Jah','Mal','Jah','Sur','Jah','Ber'], ttype:"Swords/Hammers/Axes", ladder:true, lvl:65 },
 	{ title: "Lawbringer", runes: ['Amn','Lem','Ko'], ttype:"Swords/Hammers/Scepter", ladder:true, lvl:43 },
 	{ title: "Oath", runes: ['Shael','Pul','Mal','Lum'], ttype:"Swords/Axes/Maces", ladder:true, lvl:49 },
